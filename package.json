@@ -37,14 +37,15 @@
       },
       "-----",
       {
-        "blockquote": {
-            "p": [
-              "There is but little real, genuine, devoted, pure love. This precious article is very rare. Passion is termed love.",
-              "True love is a high and holy principle, altogether different in character from that love which is awakened by impulse, and which suddenly dies when severely tested.",
-              "Love is a plant of heavenly growth, and it must be fostered and nourished. Affectionate hearts, truthful, loving words, will make happy families and exert an elevating influence upon all who come within the sphere of their influence.",
-              "—Ellen White"
-            ]
-        }
+        "blockquote": [
+          "There is but little real, genuine, devoted, pure love. This precious article is very rare. Passion is termed love.",
+          "",
+          "True love is a high and holy principle, altogether different in character from that love which is awakened by impulse, and which suddenly dies when severely tested.",
+          "",
+          "Love is a plant of heavenly growth, and it must be fostered and nourished. Affectionate hearts, truthful, loving words, will make happy families and exert an elevating influence upon all who come within the sphere of their influence.",
+          "",
+          "—Ellen White"
+        ]
       }
     ]
   },

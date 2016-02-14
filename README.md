@@ -6,14 +6,13 @@
 > Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. And now these three remain: faith, hope and love. But the greatest of these is love. (1 Corinthians 13:4-7, 13—NIV)
 
 -----
-
-There is but little real, genuine, devoted, pure love. This precious article is very rare. Passion is termed love.
-
-True love is a high and holy principle, altogether different in character from that love which is awakened by impulse, and which suddenly dies when severely tested.
-
-Love is a plant of heavenly growth, and it must be fostered and nourished. Affectionate hearts, truthful, loving words, will make happy families and exert an elevating influence upon all who come within the sphere of their influence.
-
-—Ellen White
+> There is but little real, genuine, devoted, pure love. This precious article is very rare. Passion is termed love.
+> 
+> True love is a high and holy principle, altogether different in character from that love which is awakened by impulse, and which suddenly dies when severely tested.
+> 
+> Love is a plant of heavenly growth, and it must be fostered and nourished. Affectionate hearts, truthful, loving words, will make happy families and exert an elevating influence upon all who come within the sphere of their influence.
+> 
+> —Ellen White
 
 ## Installation
 
