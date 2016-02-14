@@ -14,6 +14,8 @@
 > 
 > —Ellen White
 
+Keep this principle in its pure form and you will be happy. :blush:
+
 ## Installation
 
 ```sh
