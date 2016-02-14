@@ -34,6 +34,14 @@ console.log(loveYou.say("english"));
 console.log(loveYou.say("punjabi"));
 // ਮੈਂ ਤੈਨੂੰ ਪਿਆਰ ਕਰਦਾ ਹਾਂ
 
+// Promise-compatible :)
+new Promise(function (answer) {
+    answer(loveYou.say("french"));
+}).then(function (yay) {
+    console.log(yay);
+    // Je t'aime
+});
+
 console.log(loveYou.list);
 // [ 'I suɔ mo',
 //   'Ek het jou lief',
