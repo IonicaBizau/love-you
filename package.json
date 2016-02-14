@@ -1,0 +1,59 @@
+{
+  "name": "love-you",
+  "version": "1.0.0",
+  "description": "\"I love you\" in different languages. ",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "love",
+    "i18n",
+    "languages"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "devDependencies": {
+    "cheerio": "^0.20.0",
+    "ucfirst": "^1.0.0",
+    "tinyreq": "^2.3.1",
+    "w-json": "^1.3.1"
+  },
+  "dependencies": {
+    "deffy": "^2.2.1",
+    "err": "^1.1.1",
+    "iterate-object": "^1.3.1"
+  },
+  "blah": {
+    "description": [
+      {
+        "h2": "About love"
+      },
+      {
+        "blockquote": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. And now these three remain: faith, hope and love. But the greatest of these is love. (1 Corinthians 13:4-7, 13—NIV)"
+      },
+      "-----",
+      {
+        "blockquote": {
+            "p": [
+              "There is but little real, genuine, devoted, pure love. This precious article is very rare. Passion is termed love.",
+              "True love is a high and holy principle, altogether different in character from that love which is awakened by impulse, and which suddenly dies when severely tested.",
+              "Love is a plant of heavenly growth, and it must be fostered and nourished. Affectionate hearts, truthful, loving words, will make happy families and exert an elevating influence upon all who come within the sphere of their influence.",
+              "—Ellen White"
+            ]
+        }
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/love-you.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/love-you/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/love-you#readme"
+}
