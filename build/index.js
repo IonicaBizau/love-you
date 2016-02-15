@@ -132,6 +132,8 @@ request("https://en.wiktionary.org/wiki/I_love_you#Translations", (err, res) => 
                 break;
             case "chinese":
                 value = "我愛你";
+                lang = "chinese simplified";
+                result["chinese traditional"] = "我愛你";
                 break;
             case "portuguese":
                 value = "Eu te amo";
