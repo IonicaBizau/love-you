@@ -117,8 +117,8 @@ request("https://en.wiktionary.org/wiki/I_love_you#Translations", (err, res) => 
                 break;
             case "vietnamese":
                 value = {
-                    to_man: "em yêu anh"
-                  , to_woman: "tôi yêu em"
+                    to_man: "Em yêu anh"
+                  , to_woman: "Anh yêu em"
                 };
                 break;
             case "khmer":
@@ -131,7 +131,7 @@ request("https://en.wiktionary.org/wiki/I_love_you#Translations", (err, res) => 
                 value = "Te dievînim";
                 break;
             case "chinese":
-                value = "我愛你";
+                value = "我爱你",
                 lang = "chinese simplified";
                 result["chinese traditional"] = "我愛你";
                 break;
