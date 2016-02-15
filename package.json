@@ -1,6 +1,6 @@
 {
   "name": "love-you",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"I love you\" in different languages. ",
   "main": "lib/index.js",
   "directories": {
@@ -16,7 +16,9 @@
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "contributors": [
-    "Van-Duyet Le <me@duyetdev.com> (http://duyetdev.com)"
+    "Van-Duyet Le <me@duyetdev.com> (http://duyetdev.com)",
+    "Steve Mao (https://github.com/stevemao)",
+    "Matheus Alves <theuves@gmail.com> (https://twitter.com/theuves)"
   ],
   "license": "MIT",
   "devDependencies": {
@@ -50,7 +52,9 @@
           "—Ellen White"
         ]
       },
-      { "p": "Keep this principle in its pure form and you will be happy. :blush:" }
+      {
+        "p": "Keep this principle in its pure form and you will be happy. :blush:"
+      }
     ]
   },
   "repository": {
