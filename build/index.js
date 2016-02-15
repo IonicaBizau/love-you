@@ -133,6 +133,9 @@ request("https://en.wiktionary.org/wiki/I_love_you#Translations", (err, res) => 
             case "chinese":
                 value = "我愛你";
                 break;
+            case "portuguese":
+                value = "Eu te amo";
+                break;
             case "punjabi":
                 value = {
                     by_man: "ਮੈਂ ਤੈਨੂੰ ਪਿਆਰ ਕਰਦਾ ਹਾਂ"
