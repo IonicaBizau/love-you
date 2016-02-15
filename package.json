@@ -1,6 +1,6 @@
 {
   "name": "love-you",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "\"I love you\" in different languages. ",
   "main": "lib/index.js",
   "directories": {
@@ -18,7 +18,8 @@
   "contributors": [
     "Van-Duyet Le <me@duyetdev.com> (http://duyetdev.com)",
     "Steve Mao (https://github.com/stevemao)",
-    "Matheus Alves <theuves@gmail.com> (https://twitter.com/theuves)"
+    "Matheus Alves <theuves@gmail.com> (https://twitter.com/theuves)",
+    "Che-Wei Lin <linton.tw@gmail.com> (http://linton.tw/)"
   ],
   "license": "MIT",
   "devDependencies": {
