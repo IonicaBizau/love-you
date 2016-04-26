@@ -1,6 +1,6 @@
 {
   "name": "love-you",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "\"I love you\" in different languages. ",
   "main": "lib/index.js",
   "directories": {
@@ -65,5 +65,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/love-you/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/love-you#readme"
+  "homepage": "https://github.com/IonicaBizau/love-you#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
