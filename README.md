@@ -1,28 +1,34 @@
+
 # love-you [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/love-you.svg)](https://www.npmjs.com/package/love-you) [![Downloads](https://img.shields.io/npm/dt/love-you.svg)](https://www.npmjs.com/package/love-you) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-> "I love you" in different languages. 
+> "I love you" in different languages.
 
 ## :heartbeat: About love :sparkling_heart:
 > Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. And now these three remain: faith, hope and love. But the greatest of these is love. (1 Corinthians 13:4-7, 13—NIV)
 
 -----
 > There is but little real, genuine, devoted, pure love. This precious article is very rare. Passion is termed love.
-> 
+>
 > True love is a high and holy principle, altogether different in character from that love which is awakened by impulse, and which suddenly dies when severely tested.
-> 
+>
 > Love is a plant of heavenly growth, and it must be fostered and nourished. Affectionate hearts, truthful, loving words, will make happy families and exert an elevating influence upon all who come within the sphere of their influence.
-> 
+>
 > —Ellen White
+
 
 Keep this principle in its pure form and you will be happy. :blush:
 
-## Installation
+
+## :cloud: Installation
 
 ```sh
 $ npm i --save love-you
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const loveYou = require("love-you");
@@ -66,7 +72,8 @@ console.log(loveYou.i18n);
 //   english: 'I love you' }
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `random()`
 Returns *I love you* in a random language.
@@ -84,13 +91,13 @@ Returns *I love you* translation based on who says it and in what language.
 #### Return
 - **String** *I love you* in the specified language.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
