@@ -1,6 +1,6 @@
 {
   "name": "love-you",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "\"I love you\" in different languages. ",
   "main": "lib/index.js",
   "directories": {
@@ -74,6 +74,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
