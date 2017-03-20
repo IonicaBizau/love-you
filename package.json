@@ -1,6 +1,6 @@
 {
   "name": "love-you",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "\"I love you\" in different languages. ",
   "main": "lib/index.js",
   "directories": {
@@ -14,7 +14,7 @@
     "i18n",
     "languages"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "contributors": [
     "Van-Duyet Le <me@duyetdev.com> (http://duyetdev.com)",
     "Steve Mao (https://github.com/stevemao)",
@@ -70,12 +70,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
