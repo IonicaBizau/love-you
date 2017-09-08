@@ -12,6 +12,7 @@ Returns *I love you* in a random language.
 Returns *I love you* translation based on who says it and in what language.
 
 #### Params
+
 - **String** `lang`: The language (lowercase). If not provided, a random one will be used.
 - **Boolean** `byMan`: A flag representing if a man tells these magic words to a woman (default: `true`).
 
