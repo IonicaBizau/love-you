@@ -8,6 +8,7 @@
 > "I love you" in different languages.
 
 ## :heartbeat: About love :sparkling_heart:
+
 > Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. And now these three remain: faith, hope and love. But the greatest of these is love. (1 Corinthians 13:4-7, 13—NIV)
 
 -----
@@ -26,7 +27,11 @@ Keep this principle in its pure form and you will be happy. :blush:
 ## :cloud: Installation
 
 ```sh
-$ npm i --save love-you
+# Using npm
+npm install --save love-you
+
+# Using yarn
+yarn add love-you
 ```
 
 
@@ -84,7 +89,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
